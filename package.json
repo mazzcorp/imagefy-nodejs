@@ -1,0 +1,37 @@
+{
+  "name": "imagefy-nodejs",
+  "version": "1.0.0",
+  "description": "client library for imagefy api",
+  "main": "./index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazzcorp/imagefy-nodejs.git"
+  },
+  "keywords": [
+    "qrcode",
+    "qr-code",
+    "qr",
+    "code",
+    "png",
+    "jpg",
+    "jpeg",
+    "compress",
+    "watermark",
+    "image",
+    "resize",
+    "thumbnail",
+    "create",
+    "api",
+    "free"
+  ],
+  "author": "Mazzcorp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mazzcorp/imagefy-nodejs/issues"
+  },
+  "homepage": "https://github.com/mazzcorp/imagefy-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
