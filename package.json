@@ -1,5 +1,5 @@
 {
-  "name": "imagefy-nodejs",
+  "name": "imagefy",
   "version": "1.0.0",
   "description": "client library for imagefy api",
   "main": "./index.js",
