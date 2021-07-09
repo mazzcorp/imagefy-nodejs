@@ -2,7 +2,7 @@ import axios from "axios"
 import FormData from "form-data"
 import fs from "fs"
 
-const baseUrl = "https://imagefy.mazzcorp.com.br/api/v1"
+const baseUrl = "https://imagefy.mazzcorp.net/api/v1"
 const isHexColor = /^#(?:[a-f0-9]{3}){1,2}$/i
 const isNormalSize = /^\d{1,3}x\d{1,3}$/
 const isLargeSize = /^\d{1,4}x\d{1,4}$/
