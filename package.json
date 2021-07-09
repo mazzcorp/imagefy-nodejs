@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "client library for imagefy api",
   "main": "./index.js",
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mazzcorp/imagefy-nodejs.git"

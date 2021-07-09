@@ -1,6 +1,6 @@
-import axios from "axios"
-import FormData from "form-data"
-import fs from "fs"
+const axios = require('axios').default
+const FormData = require('form-data')
+const fs = require('fs')
 
 const baseUrl = "https://imagefy.mazzcorp.net/api/v1"
 const isHexColor = /^#(?:[a-f0-9]{3}){1,2}$/i
@@ -39,7 +39,7 @@ class ImagefyResult {
     }
 }
 
-export default class Imagefy {
+module.exports = class Imagefy {
     /**
      * 
      * @param {string} key 
