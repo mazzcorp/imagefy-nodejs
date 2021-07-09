@@ -1,6 +1,6 @@
 {
   "name": "imagefy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "client library for imagefy api",
   "main": "./index.js",
   "repository": {
@@ -24,7 +24,7 @@
     "api",
     "free"
   ],
-  "author": "Mazzcorp",
+  "author": "mazzcorp",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mazzcorp/imagefy-nodejs/issues"
