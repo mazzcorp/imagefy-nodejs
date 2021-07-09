@@ -1,6 +1,6 @@
 # imagefy-nodejs
-> api client for node js based on axios\
-Wait, why an API client? Easy, because in cloud development scenarios, costs are calculated by using resources such as CPU, memory and disk.\
+api client for node js based on axios\
+> Wait, why an API client? Easy, because in cloud development scenarios, costs are calculated by using resources such as CPU, memory and disk.\
 By abstracting costly work to an external server, you save real money, but, increase workflow latency in a few milliseconds, consider this if you make multiple calls in sequence.
 
 ### Features
